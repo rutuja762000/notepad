@@ -1,2 +1,2 @@
 # notepad
-simple notepad project
+simple notepad project using java and swing framework
